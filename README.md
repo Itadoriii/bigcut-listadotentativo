@@ -1,5 +1,5 @@
 # bigcut-listadotentativo
-#DOCKER \n
+#DOCKER 
   Ventajas del uso de Docker: 
     -un contenedor docker permite mantener un entorno de pruebas consistentes 
     -es ligero en comparacion a una maquina virtual
